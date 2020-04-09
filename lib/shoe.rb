@@ -8,4 +8,8 @@ class Shoe
     @brand
   end
   
+  def color=(shoe_color)
+    @color = shoe_color
+  end
+  
 end
