@@ -12,4 +12,8 @@ class Shoe
     @color = shoe_color
   end
   
+  def color
+    @color
+  end
+  
 end
